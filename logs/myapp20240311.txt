@@ -1,0 +1,7 @@
+2024-03-11 16:49:05.832 +03:00 [INF] Now listening on: http://localhost:5284
+2024-03-11 16:49:05.860 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-11 16:49:05.861 +03:00 [INF] Hosting environment: Development
+2024-03-11 16:49:05.861 +03:00 [INF] Content root path: /home/motasem/Desktop/NameValidationApi
+2024-03-11 16:49:23.129 +03:00 [INF] Application is shutting down...
+John 12312 connected in Datadog
+John 12312 connected in Datadog

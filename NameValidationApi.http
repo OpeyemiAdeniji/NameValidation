@@ -1,0 +1,6 @@
+@NameValidationApi_HostAddress = http://localhost:5284
+
+GET {{NameValidationApi_HostAddress}}/NameValidation/
+Accept: application/json
+
+###

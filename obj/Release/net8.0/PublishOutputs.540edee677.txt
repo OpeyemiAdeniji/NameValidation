@@ -1,0 +1,12 @@
+/home/motasem/Desktop/NameValidationApi/publish/NameValidationApi
+/home/motasem/Desktop/NameValidationApi/publish/appsettings.Development.json
+/home/motasem/Desktop/NameValidationApi/publish/appsettings.json
+/home/motasem/Desktop/NameValidationApi/publish/NameValidationApi.dll
+/home/motasem/Desktop/NameValidationApi/publish/NameValidationApi.deps.json
+/home/motasem/Desktop/NameValidationApi/publish/NameValidationApi.runtimeconfig.json
+/home/motasem/Desktop/NameValidationApi/publish/NameValidationApi.pdb
+/home/motasem/Desktop/NameValidationApi/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/motasem/Desktop/NameValidationApi/publish/Microsoft.OpenApi.dll
+/home/motasem/Desktop/NameValidationApi/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/motasem/Desktop/NameValidationApi/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/motasem/Desktop/NameValidationApi/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
